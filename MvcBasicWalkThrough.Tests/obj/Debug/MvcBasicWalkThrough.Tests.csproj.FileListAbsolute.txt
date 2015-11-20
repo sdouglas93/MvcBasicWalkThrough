@@ -1,0 +1,8 @@
+c:\users\h153813\documents\visual studio 2010\Projects\MvcBasicWalkThrough\MvcBasicWalkThrough.Tests\bin\Debug\MvcBasicWalkThrough.Tests.dll.config
+c:\users\h153813\documents\visual studio 2010\Projects\MvcBasicWalkThrough\MvcBasicWalkThrough.Tests\bin\Debug\MvcBasicWalkThrough.Tests.dll
+c:\users\h153813\documents\visual studio 2010\Projects\MvcBasicWalkThrough\MvcBasicWalkThrough.Tests\bin\Debug\MvcBasicWalkThrough.Tests.pdb
+c:\users\h153813\documents\visual studio 2010\Projects\MvcBasicWalkThrough\MvcBasicWalkThrough.Tests\bin\Debug\MvcBasicWalkThrough.dll
+c:\users\h153813\documents\visual studio 2010\Projects\MvcBasicWalkThrough\MvcBasicWalkThrough.Tests\bin\Debug\MvcBasicWalkThrough.pdb
+c:\users\h153813\documents\visual studio 2010\Projects\MvcBasicWalkThrough\MvcBasicWalkThrough.Tests\obj\Debug\MvcBasicWalkThrough.Tests.csprojResolveAssemblyReference.cache
+c:\users\h153813\documents\visual studio 2010\Projects\MvcBasicWalkThrough\MvcBasicWalkThrough.Tests\obj\Debug\MvcBasicWalkThrough.Tests.dll
+c:\users\h153813\documents\visual studio 2010\Projects\MvcBasicWalkThrough\MvcBasicWalkThrough.Tests\obj\Debug\MvcBasicWalkThrough.Tests.pdb

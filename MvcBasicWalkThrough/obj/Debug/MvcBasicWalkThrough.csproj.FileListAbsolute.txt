@@ -1,0 +1,4 @@
+c:\users\h153813\documents\visual studio 2010\Projects\MvcBasicWalkThrough\MvcBasicWalkThrough\bin\MvcBasicWalkThrough.dll
+c:\users\h153813\documents\visual studio 2010\Projects\MvcBasicWalkThrough\MvcBasicWalkThrough\bin\MvcBasicWalkThrough.pdb
+c:\users\h153813\documents\visual studio 2010\Projects\MvcBasicWalkThrough\MvcBasicWalkThrough\obj\Debug\MvcBasicWalkThrough.dll
+c:\users\h153813\documents\visual studio 2010\Projects\MvcBasicWalkThrough\MvcBasicWalkThrough\obj\Debug\MvcBasicWalkThrough.pdb
