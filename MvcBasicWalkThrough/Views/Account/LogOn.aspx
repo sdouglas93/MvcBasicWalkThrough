@@ -12,7 +12,9 @@
 
     <% using (Html.BeginForm()) { %>
         <%: Html.ValidationSummary(true, "Login was unsuccessful. Please correct the errors and try again.") %>
-        <div>
+
+
+        <div  class="form-group">
             <fieldset>
                 <legend>Account Information</legend>
                 
